@@ -1,8 +1,8 @@
-# Google
+# Apple
 
-> **NOTE**: This project is neither maintained nor endorsed by Google.
+> **NOTE**: This project is neither maintained nor endorsed by Apple.
 
-This repository contains a [Vale-compatible](https://github.com/errata-ai/vale) implementation of the [*Google Developer Documentation Style Guide*](https://developers.google.com/style/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+This repository contains a [Vale-compatible](https://github.com/errata-ai/vale) implementation of the [*Apple Style Guide*](https://support.apple.com/guide/applestyleguide/welcome/web).
 
 ## Getting Started
 
@@ -17,8 +17,6 @@ Packages = Google
 [*]
 BasedOnStyles = Vale, Google
 ```
-
-See [Packages](https://vale.sh/hub/google/) for more information.
 
 ## Repository Structure
 
